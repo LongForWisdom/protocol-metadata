@@ -40,7 +40,7 @@ parameters:
     desc: The maximum amount of DAI debt for which collateral auctions can be active at any one time.
     alias: []
     scope: system
-    technical-docs: 
+    technical-docs: https://docs.makerdao.com/smart-contract-modules/dog-and-clipper-detailed-documentation
     governance-docs: https://manual.makerdao.com/parameter-index/core/param-global-liquidation-limit
 
   MCD_VAT.Line: 
